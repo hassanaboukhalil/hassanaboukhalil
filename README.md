@@ -1,4 +1,4 @@
-![programming](https://github.com/hassanaboukhalil/hassanaboukhalil/blob/main/programming_banner.jpeg)
+![programming](https://github.com/hassanaboukhalil/hassanaboukhalil/blob/main/cs_banner.gif)
 
 # Hi 👋🏼 I am Hassan 
 
