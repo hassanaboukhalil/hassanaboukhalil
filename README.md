@@ -13,7 +13,7 @@ I've been coding since 2019 and I built numerous websites.
 <p align="left">
 <a href="https://twitter.com/hsnaboukhalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsnaboukhalil" height="30" width="40" /></a>
 <a href="https://instagram.com/hassan.aboukhalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan.aboukhalil" height="30" width="40" /></a>
-<a href="https://github.com/hassanaboukhalil" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://github.com/hassanaboukhalil" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="30" height="40" /></a>
 </p>
 
 ### Languages and Tools:  
