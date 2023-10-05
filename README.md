@@ -1,5 +1,7 @@
 # Hi 👋🏼 I am Hassan 
 
+<img align="right" alt="Coding" width="300" src="https://github.com/hassanaboukhalil/hassanaboukhalil/blob/main/coding.jpeg">
+
 <h3>I'm Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaboukhalil&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaboukhalil" /> </p>
