@@ -1,3 +1,5 @@
+![programming](https://github.com/hassanaboukhalil/hassanaboukhalil/blob/main/coding_banner.jpeg)
+
 # Hi 👋🏼 I am Hassan 
 
 <img align="right" alt="Coding" width="300" src="https://github.com/hassanaboukhalil/hassanaboukhalil/blob/main/coding.jpeg">
