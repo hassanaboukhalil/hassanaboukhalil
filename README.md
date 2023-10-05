@@ -1,10 +1,10 @@
 # Hi 👋🏼 I am Hassan 
 
-<h3>I'm software developer</h3>
+<h3>I'm Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaboukhalil&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaboukhalil" /> </p>
 
-I've been coding since 2019 and I built numerous websites.
+I've love coding
 
 * ✉️  You can contact me at [hassan.ak920@gmail.com](mailto:hassan.ak920@gmail.com)
 * ⚡  Coding is Fun
