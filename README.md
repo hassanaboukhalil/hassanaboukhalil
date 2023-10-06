@@ -2,7 +2,7 @@
 
 # Hi 👋🏼 I am Hassan 
 
-<img align="right" alt="Coding" width="300" src="https://github.com/hassanaboukhalil/hassanaboukhalil/blob/main/coding.jpeg">
+<img align="right" alt="Coding" width="200" src="https://github.com/hassanaboukhalil/hassanaboukhalil/blob/main/coding.jpeg">
 
 <h3>I'm Software Developer</h3>
 
@@ -16,7 +16,7 @@ I've love coding
 ### Connect with me::
 <p align="left">
 <a href="https://twitter.com/hsnaboukhalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsnaboukhalil" height="30" width="40" /></a>
-<a href="https://instagram.com/hassan.aboukhalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan.aboukhalil" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hassan.coding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan.aboukhalil" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:  
