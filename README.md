@@ -16,7 +16,7 @@ I've love coding
 ### Connect with me::
 <p align="left">
 <a href="https://twitter.com/CodingHassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsnaboukhalil" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hassan.coding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan.aboukhalil" height="30" width="40" /></a>
+<a href="https://www.instagram.com/coding.hassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan.aboukhalil" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:  
