@@ -11,7 +11,7 @@
 I've love coding
 
 * ✉️  You can contact me at [hassan.ak920@gmail.com](mailto:hassan.ak920@gmail.com)
-* ⚡  Coding is Fun
+* ⚡  Coding is fun
 
 ### Connect with me:
 <p align="left">
