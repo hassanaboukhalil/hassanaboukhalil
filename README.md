@@ -18,10 +18,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanaboukhalil/hassanaboukhalil/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanaboukhalil/hassanaboukhalil/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/hassanaboukhalil/hassanaboukhalil/output/github-snake.svg" />
-
-   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanaboukhalil&theme=react-dark&hide_border=true" width="100%" />
-  </a>
 </picture>
 
 # 📊 GitHub Stats:
@@ -29,8 +25,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=hassanaboukhalil&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanaboukhalil&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanaboukhalil&theme=react-dark&hide_border=true" width="100%" />
+  </a>
+</div>
+
+
+
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hassanaboukhalil&limit=5&theme=dark&combine_all_yearly_contributions=true)
