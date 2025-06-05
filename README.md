@@ -21,9 +21,26 @@
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hassanaboukhalil&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hassanaboukhalil&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanaboukhalil&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanaboukhalil&theme=radical&hide_border=true&background=0D1117" alt="Hassan's GitHub streak" width="700px" />
+  </a>
+  
+  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanaboukhalil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="335px" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanaboukhalil&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="400px" />
+    </a>
+  </div>
+</div>
+
+
+
+
+
+
 
 
 <div align="center">
