@@ -1,6 +1,6 @@
 ![programming](https://github.com/hassanaboukhalil/hassanaboukhalil/blob/main/cs_banner.gif)
 
-# Hi 👋🏼 I am Hassan, a Full Stack Developer
+# Hi 👋🏼 I am Hassan, a Full-Stack Software Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaboukhalil&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaboukhalil" /> </p>
 
