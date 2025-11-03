@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaboukhalil&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaboukhalil" /> </p>
 
 # 💫 About Me:
-👨🏼‍💻Currently working as a freelance full stack developer<br>📘 Currently learning Laravel<br>😎 I enjoy building modern web applications and learning new technologies.<br>🤵  Experienced in front-end and back-end development, with a focus on performance and scalability.
+👨🏼‍💻Currently working as a freelance full stack developer<br>😎 I enjoy building modern web applications and learning new technologies.<br>🤵  Experienced in front-end and back-end development, with a focus on performance and scalability.
 
 
 ## 🌐 Socials:
